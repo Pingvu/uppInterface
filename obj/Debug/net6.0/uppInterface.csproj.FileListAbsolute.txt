@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\uppInterface\bin\Debug\net6.0\uppInterface.exe
+C:\Users\Admin\Documents\uppInterface\bin\Debug\net6.0\uppInterface.deps.json
+C:\Users\Admin\Documents\uppInterface\bin\Debug\net6.0\uppInterface.runtimeconfig.json
+C:\Users\Admin\Documents\uppInterface\bin\Debug\net6.0\uppInterface.dll
+C:\Users\Admin\Documents\uppInterface\bin\Debug\net6.0\uppInterface.pdb
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.AssemblyInfo.cs
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.dll
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\refint\uppInterface.dll
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.pdb
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\uppInterface.genruntimeconfig.cache
+C:\Users\Admin\Documents\uppInterface\obj\Debug\net6.0\ref\uppInterface.dll
