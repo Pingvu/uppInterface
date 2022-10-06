@@ -6,5 +6,10 @@ using System.Threading.Tasks;
 
     public class Cylinder
     {
-        
+        public void Area(int Result){
+        }
+        public void Circumferance(int Result){
+            
+            
+        }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\uppInterface\\uppInterface.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\uppInterface.csproj",
       "projectName": "uppInterface",
-      "projectPath": "C:\\Users\\Admin\\Documents\\uppInterface\\uppInterface.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\uppInterface.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\uppInterface\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
