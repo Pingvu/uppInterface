@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\uppInterface.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppInterface\\uppInterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\uppInterface.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppInterface\\uppInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\uppInterface.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppInterface\\uppInterface.csproj",
         "projectName": "uppInterface",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\uppInterface.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppInterface\\uppInterface.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\uppInterface\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Uniti-intro-main\\uppInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
